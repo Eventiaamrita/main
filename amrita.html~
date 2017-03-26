@@ -1,0 +1,461 @@
+<!doctype html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en-us"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en-us"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en-us"> <![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="en-us"> <![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!--><html lang="en-us"> <!--<![endif]-->
+
+<head>
+<!-- Google Tag Manager
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T8TN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T8TN');</script>
+End Google Tag Manager -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+{'gtm.start': new Date().getTime(),event:'gtm.js'}
+
+);var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZKFBZD');</script>
+<!-- End Google Tag Manager -->
+
+
+<script type='text/javascript'>
+window.__lo_site_id = 48883;
+
+	(function() {
+		var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+		wa.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://cdn') + '.luckyorange.com/w.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+	  })();
+	</script>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<title>Culinary School | Hospitality Management | Kendall.edu</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- Add CSS3 Rules here for IE 7-9
+================================================== -->
+
+<!--[if IE]>
+<style type="text/css">
+html.ie #navigation,
+html.ie a.button,
+html.ie .cta,
+html.ie .wp-caption,
+html.ie #breadcrumbs,
+html.ie a.more-link,
+html.ie .gallery .gallery-item img,
+html.ie .gallery .gallery-item img.thumbnail,
+html.ie .widget-container,
+html.ie #author-info {behavior: url("/PIE.php");position: relative;}</style>
+<![endif]-->
+
+
+<!-- Mobile Specific Metas
+================================================== -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+
+
+<!-- Fonts
+================================================== -->
+
+
+
+<!-- Favicons
+================================================== -->
+
+<link rel="shortcut icon" href="https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/images/favicon.ico">
+<link rel="apple-touch-icon" href="https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/images/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/images/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/images/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/images/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/images/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/images/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/images/apple-touch-icon-152x152.png" />
+<link rel="pingback" href="https://www.kendall.edu/xmlrpc.php" />
+        <style type="text/css">
+        </style>
+        
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Enroll at Chicago&#039;s #1 culinary school &amp; hospitality management program. Our student-to-faculty ratio of 1:16 ensures support &amp; guidance. Start now!"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://www.kendall.edu/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Culinary School | Hospitality Management | Kendall.edu" />
+<meta property="og:description" content="Enroll at Chicago&#039;s #1 culinary school &amp; hospitality management program. Our student-to-faculty ratio of 1:16 ensures support &amp; guidance. Start now!" />
+<meta property="og:url" content="https://www.kendall.edu/" />
+<meta property="og:site_name" content="Kendall College" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/www.kendall.edu\/","name":"Kendall College","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.kendall.edu\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.kendall.edu\/","sameAs":[],"name":"Kendall College","logo":""}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Kendall College &raquo; Feed" href="https://www.kendall.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Kendall College &raquo; Comments Feed" href="https://www.kendall.edu/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Kendall College &raquo; iCal Feed" href="https://www.kendall.edu/all-events/?ical=1" />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/plugins/compact-wp-audio-player/css/flashblock.css' type='text/css' media='all' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/plugins/compact-wp-audio-player/css/player.css' type='text/css' media='all' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/plugins/google-language-translator/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/plugins/woocommerce-smart-coupons/assets/css/smart-coupon.css' type='text/css' media='all' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/css/main.css' type='text/css' media='all' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/css/news.css' type='text/css' media='all' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/css/jquery.fancybox.css' type='text/css' media='all' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/plugins/feed-them-social/feeds/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/plugins/feed-them-social/feeds/css/magnific-popup.css' type='text/css' media='all' />
+<link rel='stylesheet'   href='//www.kendall.edu/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+<link rel='stylesheet'   href='//www.kendall.edu/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet'   href='//www.kendall.edu/wp-content/plugins/woocommerce/assets/css/woocommerce.css' type='text/css' media='all' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/plugins/woocommerce-deposits/assets/css/frontend.css' type='text/css' media='all' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/themes/KendallCollege/css/skeleton-960.css' type='text/css' media='screen, projection' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/style.css' type='text/css' media='screen, projection' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/themes/KendallCollege/css/layout.css' type='text/css' media='screen, projection' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/themes/KendallCollege/css/formalize.css' type='text/css' media='screen, projection' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/plugins/youtube-channel-gallery/styles.css' type='text/css' media='all' />
+<link rel='stylesheet'   href='https://www.kendall.edu/wp-content/plugins/youtube-channel-gallery/magnific-popup.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.kendall.edu/wp-content/plugins/compact-wp-audio-player/js/soundmanager2-nodebug-jsmin.js'></script>
+<script type='text/javascript' src='https://www.kendall.edu/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://www.kendall.edu/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ftsAjax = {"ajaxurl":"https:\/\/www.kendall.edu\/wp-admin\/admin-ajax.php"};
+var ftsAjax = {"ajaxurl":"https:\/\/www.kendall.edu\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.kendall.edu/wp-content/plugins/feed-them-social/admin/js/admin.js'></script>
+<script type='text/javascript' src='https://www.kendall.edu/wp-content/plugins/google-language-translator/js/load-flags.js'></script>
+<script type='text/javascript' src='https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/js/functions.js'></script>
+<script type='text/javascript' src='https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/js/jquery.fancybox.js'></script>
+<script type='text/javascript' src='https://www.kendall.edu/wp-content/plugins/feed-them-social/feeds/js/magnific-popup.js'></script>
+<link rel='shortlink' href='https://www.kendall.edu/' />
+        <script type="text/javascript">
+            var myAjaxFTS = 'https://www.kendall.edu/wp-admin/admin-ajax.php';
+        </script>
+                <script type="text/javascript">
+            var myAjaxFTS = 'https://www.kendall.edu/wp-admin/admin-ajax.php';
+        </script>
+        <style type="text/css">#flags {display:none !important; }p.hello { font-size:12px; color:darkgray; }#google_language_translator, #flags { text-align:left; }#google_language_translator { clear:both; }#flags { width:165px; }#flags a { display:inline-block; margin-right:2px; }.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}#google_language_translator a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget { font-size:0px !important; }.goog-branding { display:none; }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}</style><!-- Stream WordPress user activity plugin v3.1.1 -->
+<style type="text/css">dd ul.bulleted {  float:none;clear:both; }</style><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.kendall.edu/?wordfence_logHuman=1&hid=0E268C7141C6D402AF28916D8181D04C');
+</script><style type="text/css">body {color:#444444;font-size:14px;font-family:helvetica;font-weight:normal;}
+#site-title a {color:#181818;font-size:40px;font-family:helvetica;font-weight:normal;}
+.site-desc.text {color:#CCCCCC;font-size:24px;font-family:helvetica;font-weight:normal;}
+h1 {color:#181818;font-size:40px;font-family:helvetica;font-weight:normal;}
+h2 {color:#181818;font-size:35px;font-family:helvetica;font-weight:normal;}
+h3 {color:#181818;font-size:28px;font-family:helvetica;font-weight:normal;}
+h4 {color:#181818;font-size:21px;font-family:helvetica;font-weight:bold;}
+h5 {color:#181818;font-size:17px;font-family:helvetica;font-weight:bold;}
+body {background-color:#fcfcfc;}
+a,a:link,a:visited,a:active,#content .gist .gist-file .gist-meta a:visited {color: #3568A9;}
+#wrap #content {float:left;}
+#wrap #sidebar {float:right;}
+#wrap #sidebar .widget-container {margin-left: 20px;margin-right: 0px;}
+</style>
+	<!-- Facebook Pixel Code -->
+	<script>
+		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+			n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+			document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+		fbq('init', '902430246440611');
+		fbq('track', "PageView");
+	</script>
+
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=902430246440611&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<script type="text/javascript">
+	(function() {
+		var didInit = false;
+		function initMunchkin() {
+			if(didInit === false)
+			{ didInit = true; Munchkin.init('692-HDO-866'); }
+
+		}
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.async = true;
+		s.src = '//munchkin.marketo.net/munchkin.js';
+		s.onreadystatechange = function() {
+		if (this.readyState == 'complete' || this.readyState == 'loaded')
+		{ initMunchkin(); }
+
+		};
+		s.onload = initMunchkin;
+		document.getElementsByTagName('head')[0].appendChild(s);
+	})();
+</script>
+</head>
+
+
+<body class="home page page-id-5 page-template page-template-template-home page-template-template-home-php tribe-bar-is-disabled tribe-theme-parent-KendallCollege tribe-theme-child-KendallCollege_childtheme">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZKFBZD"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+    
+	
+	<div class="browser-modal">
+		<a class="close" href="#">Close</a>
+		<div class="title">Your browser is out of date</div>
+		<p>You should upgrade your browser or try a new browser below.</p>
+		<a class="ie" href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank">Update Internet Explorer</a>
+		<a class="ff" href="http://www.mozilla.org/en-US/firefox/new/" target="_blank">Try Firefox</a>
+		<a class="gc" href="https://www.google.com/intl/en/chrome/browser/#brand=CHMB&utm_campaign=en&utm_source=en-ha-na-us-sk&utm_medium=ha" target="_blank">Try Google Chrome</a>
+	</div>
+
+	<div class="shell ">
+		
+				<div id="header">
+			<div class="header-wrap">
+				<div id="logo" class="notext"><a href="https://www.kendall.edu/">Kendall College</a></div>
+				<div id="nav-wrap">
+					<div class="utility-nav">
+						<form role="search" method="get" class="search-form" action="https://www.kendall.edu/">
+							<input type="search" class="search-field" value="" name="s" title="Search" />
+							<input type="submit" class="search-submit" value="Search" />
+						</form>
+						<ul class="utility-menu">
+                            <li class="connect-menu"><a class="red-menu">My Account <span class="ico"></span></a>
+								<ul class="connect-sub-menu">
+									<a href="#" class="close">&nbsp;</a>
+									<div class="sub-menu-title">My Account</div>
+								                                     <li><a href="https://www.kendall.edu/my-account">Login<span class="ico"></span></a></li>
+                                									<li><a href="https://www.kendall.edu/cart">My<br />Cart <span class="ico"></span></a></li>
+									<li><a href="https://www.kendall.edu/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fwww.kendall.edu%2Fmy-account%2F&amp;_wpnonce=54c3468613">Logout <span class="ico"></span></a></li>
+								</ul>
+                            </li>
+							<li class="login-menu"><a class="red-menu" href="#">Portals <span class="ico"></span></a>
+								<ul class="connect-sub-menu">
+									<a href="#" class="close">&nbsp;</a>
+									<div class="sub-menu-title">Login</div>
+									<li><a class="alumni" target="_blank" href="http://alumni.kendall.edu/">Alumni <span class="ico"></span></a></li>
+									<li><a class="staff" target="_blank" href="http://myportal.laureate.net/">Staff <span class="ico"></span></a></li>
+									<li><a class="faculty" target="_blank" href="http://my.kendall.edu">Faculty <span class="ico"></span></a></li>
+									<li><a class="student" target="_blank" href="http://my.kendall.edu">Student <span class="ico"></span></a></li>
+									<!--<li><a class="learner" target="_blank" href="http://216.157.31.174">Professional Learner <span class="ico"></span></a></li>-->
+								</ul>
+							</li>
+							<li class="connect-menu"><a class="red-menu" href="#">Connect <span class="ico"></span></a>
+								<ul class="connect-sub-menu">
+									<a href="#" class="close">&nbsp;</a>
+									<div class="sub-menu-title">Connect</div>
+									<li class="facebook"><a href="https://www.facebook.com/kendall.college" target="_blank">&nbsp;</a></li>
+									<li class="twitter"><a href="https://twitter.com/kendallcollege" target="_blank">&nbsp;</a></li>
+									<li class="youtube"><a href="http://www.youtube.com/user/kendallcollege" target="_blank">&nbsp;</a></li>
+									<li class="instagram"><a href="http://instagram.com/kendallcollege/" target="_blank">&nbsp;</a></li>
+									<li class="linkedin"><a href="http://www.linkedin.com/company/kendall-college" target="_blank">&nbsp;</a></li>
+									<li class="blog"><a href="https://www.kendall.edu/inside-kendall/">&nbsp;</a></li>
+									<li class="contact"><a href="https://www.kendall.edu/contact/">&nbsp;</a></li>
+									<li class="snapchat"><a class="fancybox" href="https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/images/snapcode.png"></a></li>
+									<div class="blog-post">
+										<p class="latest">Latest Blog Entry</p>
+																				<div class="menu-post">
+											<p class="title"><a href="https://www.kendall.edu/AR">Paving Her Way to a Successful Career in Hospitality</a></p>
+											<p class="date">Mar.22.2017</p>
+											<p class="content">Ashley Rigsbee has been motivated to succeed professionally since she was a child watching her mother overcome major obstacles as a single mother. “She embraced...</p>
+											<a class="more" href="https://www.kendall.edu/AR">Read More</a>
+										</div>
+																			</div>
+								</ul>
+							</li>
+						</ul>
+					</div>
+					<div class="main-menu">
+						<a class="mobile-rfi" href="#">Request Information <span class="ico"></span></a>
+						<a href="#" class="nav-toggle">&nbsp;</a>
+						<div id="navigation-mobile">
+							<ul class="top-nav">
+								<form role="search" method="get" class="search-form" action="https://www.kendall.edu/">
+									<input type="search" class="search-field" value="" name="s" title="Search" />
+									<input type="submit" class="search-submit" value="Search" />
+								</form>
+								<li class="connect-menu"><a class="red-menu" href="#">Connect <span class="ico"></span></a>
+								<ul class="connect-sub-menu">
+									<a href="#" class="close">&nbsp;</a>
+									<div class="sub-menu-title">Connect</div>
+									<li class="facebook"><a href="https://www.facebook.com/kendall.college" target="_blank">&nbsp;</a></li>
+									<li class="twitter"><a href="https://twitter.com/kendallcollege" target="_blank">&nbsp;</a></li>
+									<li class="youtube"><a href="http://www.youtube.com/user/kendallcollege" target="_blank">&nbsp;</a></li>
+									<li class="instagram"><a href="http://instagram.com/kendallcollege/" target="_blank">&nbsp;</a></li>
+									<li class="linkedin"><a href="http://www.linkedin.com/company/kendall-college" target="_blank">&nbsp;</a></li>
+									<li class="blog"><a href="https://www.kendall.edu/inside-kendall/">&nbsp;</a></li>
+									<li class="contact"><a href="https://www.kendall.edu/contact/">&nbsp;</a></li>
+									<li class="snapchat"><a class="fancybox" href="https://www.kendall.edu/wp-content/themes/KendallCollege_childtheme/images/snapcode.png"></a></li>
+                                    <div class="newsletter">
+                                        <form method="POST" action="https://www.kendall.edu">
+                                        	<h3>Newsletter Signup</h3>
+                                            <input type="hidden" name="newsletter" value="yes" />
+                                            <div><input type="text" name="first_name" placeholder="First Name" /></div>
+                                            <div><input type="text" name="last_name" placeholder="Last Name" /></div>
+                                            <div><input type="text" name="email" placeholder="Email" /></div>
+                                            <div><input type="submit" value="Signup" /></div>
+                                        </form>
+                                    </div>
+									<div class="blog-post">
+										<p class="latest">Latest Blog Entry</p>
+																				<div class="menu-post">
+											<p class="title"><a href="https://www.kendall.edu/AR">Paving Her Way to a Successful Career in Hospitality</a></p>
+											<p class="date">Mar.22.2017</p>
+											<p class="content">Ashley Rigsbee has been motivated to succeed professionally since she was a child watching her mother overcome major obstacles as a single mother. “She embraced...</p>
+											<a class="more" href="https://www.kendall.edu/AR">Read More</a>
+										</div>
+																			</div>
+								</ul></li>
+								<li class="red-menu login-menu"><a class="red-menu" href="#">Portals <span class="ico"></span></a>
+								<ul class="connect-sub-menu">
+									<a href="#" class="close">&nbsp;</a>
+									<div class="sub-menu-title">Login</div>
+									<li><a target="_blank" href="http://my.kendall.edu">Student</a></li>
+									<li><a target="_blank" href="http://my.kendall.edu">Faculty</a></li>
+									<li><a target="_blank" href="http://my.kendall.edu">Staff</a></li>
+									<li><a target="_blank" href="http://alumni.kendall.edu/">Alumni</a></li>
+								                                     <li class="hide"><a href="https://www.kendall.edu/my-account">Login</a></li>
+                                									<li class="hide"><a href="https://www.kendall.edu/cart">My Cart</a></li>
+									<li class="hide"><a href="https://www.kendall.edu/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fwww.kendall.edu%2Fmy-account%2F&amp;_wpnonce=54c3468613">Logout</a></li>
+								</ul></li>
+							</ul>
+							<ul id="menu-mobile-menu-main" class="menu"><li id="menu-item-3649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3649"><a href="https://www.kendall.edu/learn/">Learn</a></li>
+<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="https://www.kendall.edu/admissions">Admissions</a></li>
+<li id="menu-item-3653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3653"><a href="https://www.kendall.edu/career/">Career</a></li>
+<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="https://www.kendall.edu/about/">About</a></li>
+<li id="menu-item-3656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3656"><a href="https://www.kendall.edu/taste-of-kendall/">Taste<br />of<br />Kendall</a></li>
+<li id="menu-item-3648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3648"><a href="https://www.kendall.edu/future-students/">Future<br />Students</a></li>
+<li id="menu-item-3655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3655"><a href="https://www.kendall.edu/current-students/">Current<br />Students</a></li>
+<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="https://www.kendall.edu/alumni/">Alumni</a></li>
+<li id="menu-item-3654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3654"><a href="https://www.kendall.edu/community">Community</a></li>
+</ul>							<ul id="menu-mobile-menu-second" class="menu"><li id="menu-item-3657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3657"><a href="https://www.kendall.edu/contact">Contact</a></li>
+<li id="menu-item-3665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3665"><a href="https://www.kendall.edu/visit">Visit</a></li>
+<li id="menu-item-3660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3660"><a href="https://www.kendall.edu/kendall-ranking">Kendall Ranking</a></li>
+<li id="menu-item-3663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3663"><a href="https://www.kendall.edu/program-data">Program Data</a></li>
+<li id="menu-item-3659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3659"><a href="https://www.kendall.edu/?page_id=66">Kendall Alert</a></li>
+<li id="menu-item-3661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3661"><a href="https://www.kendall.edu/legal-consumer">Legal &#038; Consumer</a></li>
+<li id="menu-item-3662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3662"><a href="https://www.kendall.edu/privacy-policy">Privacy Policy</a></li>
+<li id="menu-item-7199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7199"><a href="https://www.kendall.edu/my-account">My Account</a></li>
+<li id="menu-item-3666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3666"><a href="https://www.kendall.edu/terms-conditions">Terms and Conditions</a></li>
+<li id="menu-item-7198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7198"><a href="https://www.kendall.edu/cart">Cart</a></li>
+<li id="menu-item-3664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3664"><a href="https://www.kendall.edu/site-map">Site Map</a></li>
+</ul>						</div>
+						<div class="hide-menu"></div>
+						<div id="navigation">
+							<ul id="menu-main-menu" class="menu"><li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-29"><a href="https://www.kendall.edu/learn/">Learn</a>
+<ul class="sub-menu">
+	<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="https://www.kendall.edu/learn/culinary-arts/">Culinary<br />Arts<br />Program</a></li>
+	<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="https://www.kendall.edu/learn/baking-and-pastry-program">Baking<br />and Pastry Program</a></li>
+	<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="https://www.kendall.edu/learn/hospitality-management-program">Hospitality Management Program</a></li>
+	<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="https://www.kendall.edu/learn/business-program/">Business Program</a></li>
+	<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="https://www.kendall.edu/learn/early-childhood-education-program/">Early<br />Childhood Education Program</a></li>
+	<li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a href="https://www.kendall.edu/learn/general-education/">General Education</a></li>
+	<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="https://www.kendall.edu/learn/laureate-english-program/">Laureate English Program</a></li>
+	<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="https://www.kendall.edu/learn/learnacademic-calendar/">Academic Catalog</a></li>
+	<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="https://www.kendall.edu/learn/academic-calendar/">Academic Calendar</a></li>
+	<li id="menu-item-5590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5590"><a href="https://www.kendall.edu/learn/assessment">Assessment</a></li>
+</ul>
+</li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27"><a href="https://www.kendall.edu/admissions">Admissions</a>
+<ul class="sub-menu">
+	<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="https://www.kendall.edu/admissions/application-process">Application Process</a></li>
+	<li id="menu-item-284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a href="https://www.kendall.edu/admissions/transferring-kendall/">Transferring<br />to Kendall</a></li>
+	<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="https://www.kendall.edu/admissions/international-admissions/">International Admissions</a></li>
+	<li id="menu-item-285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a href="https://www.kendall.edu/admissions/tuition-fees/">Tuition<br />&#038; Fees</a></li>
+	<li id="menu-item-281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-281"><a href="https://www.kendall.edu/admissions/financial-aid">Financial<br />Aid</a></li>
+	<li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286"><a href="https://www.kendall.edu/admissions/tuition-assistance">Tuition Assistance</a></li>
+	<li id="menu-item-5923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5923"><a href="https://www.kendall.edu/admissions/veterans-affairs">Veterans <br/>Affairs</a></li>
+	<li id="menu-item-283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-283"><a href="https://www.kendall.edu/admissions/net-price-calculator">Financial Aid Calculator</a></li>
+	<li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="https://www.kendall.edu/admissions/ada">ADA</a></li>
+</ul>
+</li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28"><a href="https://www.kendall.edu/career/">Career</a>
+<ul class="sub-menu">
+	<li id="menu-item-257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-257"><a href="https://www.kendall.edu/career/career-services">Career<br />Services</a></li>
+	<li id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="https://www.kendall.edu/career/career-statistics">Career Statistics</a></li>
+	<li id="menu-item-261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261"><a href="https://www.kendall.edu/career/global-opportunities">Global Opportunities</a></li>
+	<li id="menu-item-259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="https://www.kendall.edu/career/internships/">Internships</a></li>
+	<li id="menu-item-978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-978"><a href="https://www.kendall.edu/career/employers/">Employers</a></li>
+	<li id="menu-item-262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262"><a href="https://www.kendall.edu/career/success-stories/">Success<br />Stories</a></li>
+</ul>
+</li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-26"><a href="https://www.kendall.edu/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-4833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4833"><a href="https://www.kendall.edu/about/presidents-welcome/">President&#8217;s Welcome</a></li>
+	<li id="menu-item-242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a href="https://www.kendall.edu/about/mission">Mission</a></li>
+	<li id="menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241"><a href="https://www.kendall.edu/about/leadership/">Leadership</a></li>
+	<li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238"><a href="https://www.kendall.edu/about/history">History</a></li>
+	<li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240"><a href="https://www.kendall.edu/about/laureate-network/">Laureate Network</a></li>
+	<li id="menu-item-4390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4390"><a href="https://www.kendall.edu/about/awards-recognitions">Awards<br />and<br />Recognition</a></li>
+	<li id="menu-item-233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a href="https://www.kendall.edu/about/accreditation/">Accreditation</a></li>
+	<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="https://www.kendall.edu/about/city-living-learning">City Living<br />and<br />Learning</a></li>
+	<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="https://www.kendall.edu/about/kendall-college-trust">Kendall<br />College<br />Trust</a></li>
+	<li id="menu-item-4298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4298"><a href="https://www.kendall.edu/about/latest-news">Latest News</a></li>
+	<li id="menu-item-14654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14654"><a href="/all-events/">Campus<br/>Calendar</a></li>
+	<li id="menu-item-11234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11234"><a href="https://jobs.laureate.net/category/kendall-college-jobs/673-1632/1793/1">Employment</a></li>
+</ul>
+</li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30"><a href="https://www.kendall.edu/taste-of-kendall/">Taste of Kendall</a>
+<ul class="sub-menu">
+	<li id="menu-item-5948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5948"><a href="https://www.kendall.edu/taste-of-kendall/become-member">Become a Member</a></li>
+	<li id="menu-item-7186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7186"><a href="https://www.kendall.edu/taste-of-kendall/recreational-classes">Recreational<br />Classes</a></li>
+	<li id="menu-item-8177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8177"><a href="https://www.kendall.edu/taste-of-kendall/continuing-education/">Continuing Education</a></li>
+	<li id="menu-item-5950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5950"><a href="https://www.kendall.edu/taste-of-kendall/taste-kendall-events">TASTE<br />Events</a></li>
+	<li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-308"><a href="https://www.kendall.edu/taste-of-kendall/camps/">Teen<br />Camps</a></li>
+	<li id="menu-item-4132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4132"><a href="https://www.kendall.edu/taste-of-kendall/hosting-events/">Host an<br />Event</a></li>
+	<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310"><a href="https://www.kendall.edu/taste-of-kendall/fine-dining-restaurant/">The Dining Room</a></li>
+	<li id="menu-item-7182" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-7182"><a href="https://www.kendall.edu/product/gift">Gift Card</a></li>
+</ul>
+</li>
+</ul>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		</body>
+		</html>
